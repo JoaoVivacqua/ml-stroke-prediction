@@ -5,10 +5,10 @@
 Projeto da disciplina de Machine Learning (Insper, 2026.2), usando o
 [Stroke Prediction Dataset](https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset).
 
-| Etapa | Página | Notebook |
-|---|---|---|
-| APS1: Análise Exploratória (EDA) | [aps1.html](https://colab.research.google.com/drive/1f0UktZYCRpEYeQXjdzjJjA6Oid_2PENd#scrollTo=8ec71d92) | `APS1_EDA_Stroke_MuriloGodoy_JoaoPedroPessoa.ipynb` |
-| APS2: Classificação | [index.html](https://colab.research.google.com/drive/1PJ_bsHuSy-bVrRC9PJfBD8SeiC35bXNv#scrollTo=95c83a78) | `APS2_Classificacao_Stroke_MuriloGodoy_JoaoPedroPessoa.ipynb` |
+| Etapa | Relatório (site) | Notebook no Colab | Arquivo |
+|---|---|---|---|
+| APS1: Análise Exploratória (EDA) | [Abrir página](aps1.html) | [Abrir no Colab](https://colab.research.google.com/drive/1f0UktZYCRpEYeQXjdzjJjA6Oid_2PENd) | `APS1_EDA_Stroke_MuriloGodoy_JoaoPedroPessoa.ipynb` |
+| APS2: Classificação | [Abrir página](index.html) | [Abrir no Colab](https://colab.research.google.com/drive/1PJ_bsHuSy-bVrRC9PJfBD8SeiC35bXNv) | `APS2_Classificacao_Stroke_MuriloGodoy_JoaoPedroPessoa.ipynb` |
 
 ## Resumo da APS2
 
