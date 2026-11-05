@@ -7,8 +7,8 @@ Projeto da disciplina de Machine Learning (Insper, 2026.2), usando o
 
 | Etapa | Página | Notebook |
 |---|---|---|
-| APS1: Análise Exploratória (EDA) | [aps1.html](aps1.html) | `APS1_EDA_Stroke_MuriloGodoy_JoaoPedroPessoa.ipynb` |
-| APS2: Classificação | [index.html](index.html) | `APS2_Classificacao_Stroke_MuriloGodoy_JoaoPedroPessoa.ipynb` |
+| APS1: Análise Exploratória (EDA) | [aps1.html](https://colab.research.google.com/drive/1f0UktZYCRpEYeQXjdzjJjA6Oid_2PENd#scrollTo=8ec71d92) | `APS1_EDA_Stroke_MuriloGodoy_JoaoPedroPessoa.ipynb` |
+| APS2: Classificação | [index.html](https://colab.research.google.com/drive/1PJ_bsHuSy-bVrRC9PJfBD8SeiC35bXNv#scrollTo=95c83a78) | `APS2_Classificacao_Stroke_MuriloGodoy_JoaoPedroPessoa.ipynb` |
 
 ## Resumo da APS2
 
